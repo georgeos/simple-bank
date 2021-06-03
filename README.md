@@ -1,2 +1,3 @@
-# smart-contracts
-Smart contract exercises
+# Simple Bank
+
+Simple bank exercise using smart contracts
